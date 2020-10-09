@@ -14,3 +14,4 @@
 ### preparação para api/JS - check
 ### configurar graphql -
 ### implementar graphql GitHub -
+### Revisão final dos textos e erros -
